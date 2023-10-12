@@ -1,11 +1,12 @@
 # Pipeline_System
 This Project is a Pipeline Management System which is implemented using Graph Data Structure.
 Output - 
-Enter the no. of places:9
-Enter the name of the place: bavdhan
-Enter the name of the place: baner
-Enter the name of the place: khadki
-Enter the name of the place: vimannagar
+
+Enter the no. of places:9                                                                                                                                         
+Enter the name of the place: bavdhan                                                                                                                              
+Enter the name of the place: baner                                                                                                                                
+Enter the name of the place: khadki                                                                                                                               
+Enter the name of the place: vimannagar    
 Enter the name of the place: kothrud
 Enter the name of the place: swargate
 Enter the name of the place: dhankawadi
